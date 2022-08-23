@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "PANN - MD" //namabot kalian
 global.ownername= "PANN BOT" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/HDsLWa0SXJxAiJbJCdpb4p" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "pannopbr@gmail.com" //bebas
